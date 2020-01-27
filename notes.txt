@@ -1,0 +1,33 @@
+Topics from Java in order:
+1.  How Java works
+2.  Running a java code
+3.  Java and internet
+4.  Java datatypes, variable, array
+5.  Java class
+6.  Objects and reference
+7.  Inheritance
+8.  Polymorphism
+9.  Package and Interface
+10. Exception Handling
+11. Enumeration
+12. Log
+*********************************
+Algorithms:
+1.  Backtracking Algorithms
+2.  Branch and bound algorithms
+3.  Dynamic Programming
+
+*********************************
+Problems: Power set, subset, permutations
+*********************************
+
+01.17.20
+
+[java code] -> compilation (javac) -> [byte code java] -> machime code
+javac Sample_java_code.java && java Sample_java_code
+
+- class name and file name should be the same
+
+
+
+
